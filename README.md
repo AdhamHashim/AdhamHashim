@@ -1,11 +1,8 @@
 # Adham Hashim
 
 ## Mobile Application Developer (Flutter)
-
 ---
-
 ### Professional Experience
-
 **Awamer Alshabaka (AAIT)** — Mobile Application Developer (Flutter)  
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
 **(3 years, 4 months)**  
