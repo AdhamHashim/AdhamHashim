@@ -3,21 +3,18 @@
 ## Mobile Application Developer (Flutter)
 ---
 ### Professional Experience
-**Awamer Alshabaka (AAIT)** — Mobile Application Developer (Flutter)  
+**Awamer Alshabaka (AAIT)** — (3 years, 4 months)
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
-**(3 years, 4 months)**  
 
-**Moltaqa Tech** — Mobile Application Developer (Flutter)  
+**Moltaqa Tech** — (8 months)
 Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-**(8 months)**  
 
-**Jaadara** — Mobile Application Developer (Flutter)  
+**Jaadara** — (10 months)
 Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-**(10 months)**  
 
-**Freelance** — Mobile Application Developer (Flutter)  
+**Freelance** —(4 years, 5 months) 
 Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
-**(4 years, 5 months)**  
+
 ---
 ## Published Apps
 
