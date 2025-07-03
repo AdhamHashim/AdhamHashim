@@ -90,19 +90,19 @@ Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)
 ## Technical Skills
 
 ### Languages
-- Dart, C#, Java, Kotlin, Swift, Objective-C, JavaScript, TypeScript
+- Dart, C#.
 
 ### Frameworks & Libraries
-- Flutter, Bloc, Cubit, Provider, Riverpod, GetX, Redux, Clean Architecture, RxDart, Flutter Modular, Flutter Hooks
+- Flutter, Bloc, Cubit, Provider, Riverpod, Clean Architecture, Flutter Modular, Flutter Hooks.
 
 ### Databases & Storage
-- Firebase Firestore, Firebase Realtime Database, Firebase Storage, SQLite, Hive, Moor (Drift), ObjectBox, Realm, Shared Preferences, FSql, Secure Storage
+- Firebase Firestore, Firebase Realtime Database, Firebase Storage, Hive, Moor (Drift),  Shared Preferences, FSql, Secure Storage.
 
 ### DevOps & Tools
-- Git, GitHub, GitLab, Bitbucket, CI/CD (GitHub Actions, GitLab CI, Bitrise, Codemagic), JIRA, Trello, Postman, VS Code, Android Studio, XCode, Fastlane, Firebase Crashlytics, Sentry, AppCenter, Docker, Figma, Zeplin
+- Git, GitHub, GitLab , Bitrise, Codemagic), Trello, Postman, VS Code, Android Studio, XCode, Fastlane, Firebase Crashlytics, Sentry, Figma, , CI/CD (GitHub Actions, GitLab CI.
 
 ### Concepts & Specialties
-- RESTful APIs, GraphQL, WebSockets, OOP, SOLID Principles, Design Patterns, Clean Code, Unit & Widget Testing, Integration Testing, TDD, BLoC/Cubit Pattern, MVC/MVVM, Data Structures & Algorithms, State Management, Dependency Injection, Payment Gateways, Google Maps, Push Notifications, Localization & Internationalization, Accessibility, Performance Optimization, Security, SignalR, Socket IO, In-App Purchases, App Store/Play Store Deployment, Analytics, Deep Linking
+- RESTful APIs, WebSockets, OOP, SOLID Principles, Design Patterns, Clean Code,  BLoC/Cubit Pattern, MVC/MVVM, Data Structures & Algorithms, State Management, Dependency Injection, Payment Gateways, Google Maps, Push Notifications, Localization & Internationalization, Accessibility, Performance Optimization, Security, SignalR, Socket IO, In-App Purchases, App Store/Play Store Deployment, Analytics, Deep Linking
 
 ---
 
@@ -122,4 +122,3 @@ Bachelor's Degree in Computer and Information Sciences and Support Services
 
 ---
 
-> I am passionate about delivering high-quality, scalable Flutter solutions and eager to contribute to innovative teams. If you're seeking a senior Flutter developer dedicated to quality and continuous improvement, I would love to connect and discuss how I can bring value to your company.
