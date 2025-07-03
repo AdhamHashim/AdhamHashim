@@ -10,13 +10,6 @@
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
 **(3 years, 4 months)**  
 
-**Freelance** — Mobile Application Developer (Flutter)  
-Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
-**(4 years, 5 months)**  
-- Delivered custom mobile app solutions for diverse clients using the latest Flutter best practices.
-- Specialized in translating complex requirements into scalable, maintainable, and high-performance applications.
-- Maintained strong client relationships through clear communication and reliable project delivery.
-
 **Moltaqa Tech** — Mobile Application Developer (Flutter)  
 Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 **(8 months)**  
@@ -25,8 +18,10 @@ Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)
 Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 **(10 months)**  
 
+**Freelance** — Mobile Application Developer (Flutter)  
+Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
+**(4 years, 5 months)**  
 ---
-
 ## Published Apps
 
 ### 1. D-Bikes
