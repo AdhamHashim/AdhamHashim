@@ -9,9 +9,6 @@
 **Awamer Alshabaka (AAIT)** — Mobile Application Developer (Flutter)  
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
 **(3 years, 4 months)**  
-- Led the development and deployment of multiple high-traffic Flutter apps, ensuring robust performance and user-centric design.
-- Utilized advanced skills in Git, REST APIs, Google Maps, and payment integration to deliver seamless solutions.
-- Collaborated effectively within cross-functional teams to deliver projects on time and with high quality.
 
 **Freelance** — Mobile Application Developer (Flutter)  
 Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
@@ -23,21 +20,14 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 **Moltaqa Tech** — Mobile Application Developer (Flutter)  
 Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 **(8 months)**  
-- Built and maintained business and utility mobile applications.
-- Implemented advanced state management and persistent storage solutions.
-- Improved app performance and user experience through profiling and optimization.
 
 **Jaadara** — Mobile Application Developer (Flutter)  
 Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 **(10 months)**  
-- Developed and maintained apps with a focus on performance and user experience.
-- Worked closely with stakeholders to gather requirements and deliver practical mobile solutions.
 
 ---
 
 ## Published Apps
-
-> **Note:** App images can be provided upon request or at interview. All links are official store listings.
 
 ### 1. D-Bikes
 - **Google Play:** [D-Bikes](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
