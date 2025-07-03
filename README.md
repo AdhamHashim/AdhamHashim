@@ -4,16 +4,26 @@
 
 ---
 
-### Skills
+### Professional Experience
 
-- **Languages:** Dart, C#
-- **Frameworks & Libraries:** Flutter, Bloc, Provider, Clean Architecture
-- **Databases:** Firebase Firestore, Firebase Storage, Hive, FSql
-- **DevOps & Tools:** Git, GitHub, GitLab, CI/CD, JIRA, Postman, VS Code, XCode
-- **Concepts:** RESTful APIs, OOP, Data Structures & Algorithms, Payment Gateways, Google Maps, SignalR, Socket IO
+**Awamer Alshabaka (AAIT)** — Mobile Application Developer (Flutter)  
+Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
+- Led the development and deployment of multiple high-traffic Flutter apps.
+- Utilized advanced skills in Git, REST API, Google Maps, and payment integrations.
+
+**Freelance** — Mobile Application Developer (Flutter)  
+Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
+- Delivered custom mobile app solutions for diverse clients using the latest Flutter best practices.
+
+**Moltaqa Tech** — Mobile Application Developer (Flutter)  
+Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
+- Built and maintained business and utility mobile applications.
+
+**Jaadara** — Mobile Application Developer (Flutter)  
+Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
+- Developed and maintained apps with focus on performance and user experience.
 
 ---
-
 ### Published Apps
 
 #### 1. [D-Bikes](https://apps.apple.com/us/app/d-bikes/id1662258319) | [Google Play](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
@@ -46,28 +56,15 @@ App for goods bartering and exchange via an intuitive platform.
 #### 10. [Offer Station](https://apps.apple.com/fr/app/offer-station/id1617536043)
 تطبيق للحصول على أحدث كوبونات وخصومات المتاجر، مع تصفح العروض وتطبيق أكواد التوفير.
 
----
-
-### Professional Experience
-
-**Awamer Alshabaka (AAIT)** — Mobile Application Developer (Flutter)  
-Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
-- Led the development and deployment of multiple high-traffic Flutter apps.
-- Utilized advanced skills in Git, REST API, Google Maps, and payment integrations.
-
-**Freelance** — Mobile Application Developer (Flutter)  
-Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
-- Delivered custom mobile app solutions for diverse clients using the latest Flutter best practices.
-
-**Moltaqa Tech** — Mobile Application Developer (Flutter)  
-Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-- Built and maintained business and utility mobile applications.
-
-**Jaadara** — Mobile Application Developer (Flutter)  
-Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-- Developed and maintained apps with focus on performance and user experience.
 
 ---
+### Skills
+
+- **Languages:** Dart, C#
+- **Frameworks & Libraries:** Flutter, Bloc, Provider, Clean Architecture
+- **Databases:** Firebase Firestore, Firebase Storage, Hive, FSql
+- **DevOps & Tools:** Git, GitHub, GitLab, CI/CD, JIRA, Postman, VS Code, XCode
+- **Concepts:** RESTful APIs, OOP, Data Structures & Algorithms, Payment Gateways, Google Maps, SignalR, Socket IOß
 
 ### Education
 
