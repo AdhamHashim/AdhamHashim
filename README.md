@@ -1,4 +1,4 @@
-# Adham Hashim
+# @Adham Hashim
 
 ## Mobile Application Developer (Flutter)
 ---
@@ -88,7 +88,7 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - Firebase Firestore, Firebase Realtime Database, Firebase Storage, Hive, Moor (Drift),  Shared Preferences, FSql, Secure Storage.
 
 ### DevOps & Tools
-- Git, GitHub, GitLab , Bitrise, Codemagic), Trello, Postman, VS Code, Android Studio, XCode, Fastlane, Firebase Crashlytics, Sentry, Figma, , CI/CD (GitHub Actions, GitLab CI.
+- Git, GitHub, GitLab , Postman, VS Code, XCode , Figma , Trello, Fastlane, Firebase Crashlytics, Sentry,  CI/CD.
 
 ### Concepts & Specialties
 - RESTful APIs, WebSockets, OOP, SOLID Principles, Design Patterns, Clean Code,  BLoC/Cubit Pattern, MVC/MVVM, Data Structures & Algorithms, State Management, Dependency Injection, Payment Gateways, Google Maps, Push Notifications, Localization & Internationalization, Accessibility, Performance Optimization, Security, SignalR, Socket IO, In-App Purchases, App Store/Play Store Deployment, Analytics, Deep Linking
