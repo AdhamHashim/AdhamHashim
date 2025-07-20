@@ -30,7 +30,7 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
   رفيقك المثالي لتجهيز مناسبتك بكل احترافية، مع إمكانية الوصول لمزودي خدمات المناسبات مثل القاعات، التصوير، المطاعم، وغيرها.
 
-### . Markn (مركن)
+### . Markni (مركني)
 - **Google Play:** [Markn (مركن)](https://play.google.com/store/apps/details?id=com.aait.markan&hl=en_US)
 - **App Store:** [Markn (مركن)](https://apps.apple.com/us/app/mrkni-%D9%85%D8%B1%D9%83%D9%86%D9%8A/id6633429828)
 - **Description:**  
