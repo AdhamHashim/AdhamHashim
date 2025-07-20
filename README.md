@@ -24,7 +24,7 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
   A smart bike rental app enabling users to find and rent bikes easily with integrated payment gateways and live tracking.
 
-### . ارتح (Airtah)
+### . Airtah
 - **Google Play:** [ارتح (Airtah)](https://play.google.com/store/apps/details?id=com.aait.flutter.airtah&hl=en_US)
 - **App Store:** [ارتح (Airtah)](https://apps.apple.com/us/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966)
 - **Description:**  
@@ -43,7 +43,7 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
   App for goods bartering and exchange via an intuitive platform.
 
 
-### . حمره
+### . Homra
 - **Google Play:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
 - **App Store:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
 - **Description:**  
@@ -61,18 +61,18 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
   تسهيل حفظ وإدارة البيانات العقارية للوسطاء والمنشآت.
 
-### .حاسبة الألعاب الذكية
+### .Smart gaming calculator(حاسبة الألعاب الذكية)
 - **Google Play:** [حاسبة الألعاب الذكية](https://play.google.com/store/apps/details?id=com.flutter.hasibatalaab)
 - **App Store:** [حاسبة الألعاب الذكية](https://apps.apple.com/us/app/%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/id6499495593)
 - **Description:**  
   تسهيل حفظ وإدارة البيانات العقارية للوسطاء والمنشآت.
 
-### . انجاز - engaz
+### . engaz (انجاز)
 - **Google Play:** [انجاز - engaz](https://play.google.com/store/apps/details?id=sa.aait.asp.engaz&hl=es_419)
 - **Description:**  
   تطبيق لعرض المنتجات وبيعها بسهولة مع إدارة كاملة للعملية التجارية.
 
-### . صانع العقود
+### . Contract maker (صانع العقود)
 - **Google Play:** [صانع العقود](https://play.google.com/store/apps/details?id=sa.aait.aspbranch.contact.maker&hl=pt)
 - **Description:**  
   تطبيق لإنشاء وإدارة العقود التجارية والشخصية.
@@ -82,7 +82,7 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
 Employment application for workshops, clinics and other services
 
-### . بر وبحر
+### . Land and sea (بر وبحر)
 - **App Store:** [بر وبحر](https://apps.apple.com/eg/app/%D8%A8%D8%B1-%D9%88%D8%A8%D8%AD%D8%B1/id1609854210)
 - **Description:**  
   استمتع بأفضل الرحلات البرية والبحرية مع خيارات ترفيهية وحجز سهل ودقيق.
