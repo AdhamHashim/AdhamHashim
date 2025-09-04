@@ -6,11 +6,11 @@
 **Awamer Alshabaka (AAIT)** — (3 years, 4 months)
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
 
-**Moltaqa Tech** — (8 months)
-Jul 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
+**Moltaqa Tech** — (1 Year)
+Mar 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 
-**Jaadara** — (10 months)
-Jun 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
+**Jaadara** — (1 Year)
+Mar 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 
 **Freelance** —(4 years, 5 months) 
 Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
