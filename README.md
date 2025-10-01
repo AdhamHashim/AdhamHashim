@@ -18,23 +18,6 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 ---
 ## Published Apps
 
-### . D-Bikes
-- **Google Play:** [D-Bikes](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
-- **App Store:** [D-Bikes](https://apps.apple.com/us/app/d-bikes/id1662258319)
-- **Description:**  
-  A smart bike rental app enabling users to find and rent bikes easily with integrated payment gateways and live tracking.
-
-### . Airtah
-- **Google Play:** [ارتح (Airtah)](https://play.google.com/store/apps/details?id=com.aait.flutter.airtah&hl=en_US)
-- **App Store:** [ارتح (Airtah)](https://apps.apple.com/us/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966)
-- **Description:**  
-  رفيقك المثالي لتجهيز مناسبتك بكل احترافية، مع إمكانية الوصول لمزودي خدمات المناسبات مثل القاعات، التصوير، المطاعم، وغيرها.
-
-### . Markni (مركني)
-- **Google Play:** [Markn (مركن)](https://play.google.com/store/apps/details?id=com.aait.markan&hl=en_US)
-- **App Store:** [Markn (مركن)](https://apps.apple.com/us/app/mrkni-%D9%85%D8%B1%D9%83%D9%86%D9%8A/id6633429828)
-- **Description:**  
-  تطبيق إلكتروني لتوفير مواقف السيارات في الأماكن المزدحمة مع نظام عروض وقبول بين المستخدمين.
 
 ### . Badel
 - **Google Play:** [Badel](https://play.google.com/store/apps/details?id=eg.com.flutter.badel&hl=en_US)
@@ -42,6 +25,44 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
   App for goods bartering and exchange via an intuitive platform.
 
+  ### . Airtah
+- **Google Play:** [ارتح (Airtah)](https://play.google.com/store/apps/details?id=com.aait.flutter.airtah&hl=en_US)
+- **App Store:** [ارتح (Airtah)](https://apps.apple.com/us/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966)
+- **Description:**  
+  رفيقك المثالي لتجهيز مناسبتك بكل احترافية، مع إمكانية الوصول لمزودي خدمات المناسبات مثل القاعات، التصوير، المطاعم، وغيرها.
+
+### . أجرة
+
+- **Google Play:** [أجرة](https://play.google.com/store/apps/details?id=com.flutter.ujrahMuathaga&hl=en)
+- **App Store:** [أجرة](https://apps.apple.com/us/app/%D8%A3%D8%AC%D8%B1%D8%A9/id6472903030)
+- **Description:**  
+Whether you are an individual, a company, or the owner of a self-employment document
+Renter: Start from here and create your free store and start your business with ease and safety by offering, from equipment and tools to real estate and collectibles to boats and services, and everything.
+
+### . D-Bikes
+- **Google Play:** [D-Bikes](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
+- **App Store:** [D-Bikes](https://apps.apple.com/us/app/d-bikes/id1662258319)
+- **Description:**  
+  A smart bike rental app enabling users to find and rent bikes easily with integrated payment gateways and live tracking.
+
+### . Soma
+- **Google Play:** [Soma](https://play.google.com/store/apps/details?id=com.aait.flutter.soma&hl=en)
+- **App Store:** [Soma](https://apps.apple.com/us/app/soma-%D8%B3%D9%88%D9%85%D8%A7/id6748280761)
+- **Description:**  
+  Discover the ultimate dining experience with our unique restaurant review app!
+  
+### . Markni (مركني)
+- **Google Play:** [Markn (مركن)](https://play.google.com/store/apps/details?id=com.aait.markan&hl=en_US)
+- **App Store:** [Markn (مركن)](https://apps.apple.com/us/app/mrkni-%D9%85%D8%B1%D9%83%D9%86%D9%8A/id6633429828)
+- **Description:**  
+  تطبيق إلكتروني لتوفير مواقف السيارات في الأماكن المزدحمة مع نظام عروض وقبول بين المستخدمين.
+
+### . Cloud Nine
+- **Google Play:** [Cloud Nine](https://play.google.com/store/apps/details?id=com.cloud_nine_user.app&hl=en)
+- **App Store:** [Cloud Nine](https://apps.apple.com/us/app/cloud-9-user/id6739749769) 
+- **App Store:** [Cloud Nine_Provider](https://apps.apple.com/us/app/cloud-9-provider/id6739737430)
+- **Description:**  
+  Enjoy small group classes that offer the same focus and attention as personal training, but in a relaxed and motivating group atmosphere.
 
 ### . Homra
 - **Google Play:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
@@ -60,6 +81,13 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **App Store:** [Broker (بروكر)](https://apps.apple.com/us/app/broker-%D8%A8%D8%B1%D9%88%D9%83%D8%B1/id6476932940)
 - **Description:**  
   تسهيل حفظ وإدارة البيانات العقارية للوسطاء والمنشآت.
+
+  ### Car Station - كار ستيشن 
+- **App Store:** [Car Stationـuser](https://apps.apple.com/us/app/car-station-%D9%83%D8%A7%D8%B1-%D8%B3%D8%AA%D9%8A%D8%B4%D9%86/id6744858351)
+- **App Store:** [Car Station_provider](https://apps.apple.com/us/app/car-station-%D9%85%D9%82%D8%AF%D9%85-%D8%AE%D8%AF%D9%85%D8%A9/id6744857886)
+- **Description:**  
+We are Car Station — your smart and specialized platform connecting customers with car service providers of all types through an easy and secure digital experience.
+
 
 ### .Smart gaming calculator(حاسبة الألعاب الذكية)
 - **Google Play:** [حاسبة الألعاب الذكية](https://play.google.com/store/apps/details?id=com.flutter.hasibatalaab)
