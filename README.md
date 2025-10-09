@@ -61,8 +61,8 @@ Renter: Start from here and create your free store and start your business with 
   
 
 ### . Homra
-- **Google Play:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
-- **App Store:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
+- **Google Play:** [Homra](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
+- **App Store:** [Homra](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
 - **Description:**  
 تطبيق “حُمرة” هو دليلك الذكي لاستكشاف أفضل الصالونات والأماكن مع معلومات دقيقة ، تقييمات حقيقية، صور من أرض الواقع، وقائمة محدثة بالخدمات والأسعار .
   
@@ -79,30 +79,31 @@ Renter: Start from here and create your free store and start your business with 
 - **Description:**  
 We are Car Station — your smart and specialized platform connecting customers with car service providers of all types through an easy and secure digital experience.
 
-### . AYSN
+### AYSN
 - **Google Play:** [AYSN](https://play.google.com/store/apps/details?id=sa.aait.flutter.aysn&hl=en)
 - **App Store:** [AYSN](https://apps.apple.com/us/app/aysn/id1635026369)
 - **Description:**  
   حلول ذكية للتسويق والتجارة الالكترونية مع نشر الاحتياجات والإعلانات وفق الموقع الجغرافي
 
-### . Jolias
-- **App Store:** [Offer Station](https://apps.apple.com/us/app/jolias/id6502941213)
+### Jolias
+- **App Store:** [Jolias](https://apps.apple.com/us/app/jolias/id6502941213)
+- **App Store:** [Jolias Provider](https://apps.apple.com/us/app/jolias-provider/id6502942028)
 - **Description:**  
  تطبيق جولياس يتيح لكم حجز مواعيد للتجميل سواء في صالونات التجميل او في موقعكم الخاص. كما يحتوي التطبيق على مجموعة من افضل صالونات وخبيرات التجميل كما يمكنكم اختيار طرق الدفع الالكتروني المختلفة
 
-### . engaz (انجاز)
+### engaz (انجاز)
 - **Google Play:** [انجاز - engaz](https://play.google.com/store/apps/details?id=sa.aait.asp.engaz&hl=es_419)
 - **Description:**  
   تطبيق لعرض المنتجات وبيعها بسهولة مع إدارة كاملة للعملية التجارية
 
-### . Best promo
-- **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo/id6502256311) 
+### Best promo
+- **App Store:** [Best promo](https://apps.apple.com/us/app/best-promo/id6502256311) 
 - **Description:**  
 هل تبحث عن خصومات مذهلة وعروض حصرية؟ Best Promoيقدم لك أفضل الكوبونات والخصومات عند اشتراكك! احصل على فرص توفير لا محدودة على المطاعم والكافيهات وغيرها الكثير.
 
 
-### . Best promo Provider
-- **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo-provider/id6737734051) 
+### Best promo Provider
+- **App Store:** [Best promo Provider](https://apps.apple.com/us/app/best-promo-provider/id6737734051) 
 - **Description:**  
 هل أنت مقدم خدمة تبحث عن زيادة قاعدة عملائك وتوسيع نطاق عملك؟ انضم إلى Best Promoمجانًا واستفد من الفرص الجديدة لتنمية أعمالك وجذب المزيد من العملاء.
 
