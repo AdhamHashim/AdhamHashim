@@ -19,7 +19,7 @@ Mar 2020 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)
 - **Description:**  
   App for goods bartering and exchange via an intuitive platform.
 
-  ### . Airtah
+### . Airtah
 - **Google Play:** [ارتح (Airtah)](https://play.google.com/store/apps/details?id=com.aait.flutter.airtah&hl=en_US)
 - **App Store:** [ارتح (Airtah)](https://apps.apple.com/us/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966)
 - **Description:**  
@@ -73,7 +73,7 @@ Renter: Start from here and create your free store and start your business with 
 - **Description:**  
   تسهيل حفظ وإدارة البيانات العقارية للوسطاء والمنشآت.
 
-  ### Car Station - كار ستيشن 
+### Car Station - كار ستيشن 
 - **App Store:** [Car Stationـuser](https://apps.apple.com/us/app/car-station-%D9%83%D8%A7%D8%B1-%D8%B3%D8%AA%D9%8A%D8%B4%D9%86/id6744858351)
 - **App Store:** [Car Station_provider](https://apps.apple.com/us/app/car-station-%D9%85%D9%82%D8%AF%D9%85-%D8%AE%D8%AF%D9%85%D8%A9/id6744857886)
 - **Description:**  
@@ -90,18 +90,18 @@ We are Car Station — your smart and specialized platform connecting customers 
 - **Description:**  
  تطبيق جولياس يتيح لكم حجز مواعيد للتجميل سواء في صالونات التجميل او في موقعكم الخاص. كما يحتوي التطبيق على مجموعة من افضل صالونات وخبيرات التجميل كما يمكنكم اختيار طرق الدفع الالكتروني المختلفة
 
- ### . engaz (انجاز)
+### . engaz (انجاز)
 - **Google Play:** [انجاز - engaz](https://play.google.com/store/apps/details?id=sa.aait.asp.engaz&hl=es_419)
 - **Description:**  
   تطبيق لعرض المنتجات وبيعها بسهولة مع إدارة كاملة للعملية التجارية
 
- ### . Best promo
+### . Best promo
 - **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo/id6502256311) 
 - **Description:**  
 هل تبحث عن خصومات مذهلة وعروض حصرية؟ Best Promoيقدم لك أفضل الكوبونات والخصومات عند اشتراكك! احصل على فرص توفير لا محدودة على المطاعم والكافيهات وغيرها الكثير.
 
 
- ### . Best promo Provider
+### . Best promo Provider
 - **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo-provider/id6737734051) 
 - **Description:**  
 هل أنت مقدم خدمة تبحث عن زيادة قاعدة عملائك وتوسيع نطاق عملك؟ انضم إلى Best Promoمجانًا واستفد من الفرص الجديدة لتنمية أعمالك وجذب المزيد من العملاء.
