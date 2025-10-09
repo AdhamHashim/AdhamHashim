@@ -3,17 +3,11 @@
 ## Mobile Application Developer (Flutter)
 ---
 ### Professional Experience
-**Awamer Alshabaka (AAIT)** — (3 years, 4 months)
+**Awamer Alshabaka (AAIT)** — (3 years, 8 months)
 Mar 2022 – Present | Dakahlia, Mansoura, Egypt (On-site)  
 
-**Moltaqa Tech** — (1 Year)
-Mar 2021 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-
-**Jaadara** — (1 Year)
-Mar 2020 – Mar 2021 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
-
-**Freelance** —(4 years, 5 months) 
-Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)  
+**Moltaqa Tech** — (2 Year)
+Mar 2020 – Feb 2022 | El Mansoura, Ad Daqahliyah, Egypt (On-site)  
 
 ---
 ## Published Apps
@@ -29,7 +23,14 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Google Play:** [ارتح (Airtah)](https://play.google.com/store/apps/details?id=com.aait.flutter.airtah&hl=en_US)
 - **App Store:** [ارتح (Airtah)](https://apps.apple.com/us/app/%D8%A7%D8%B1%D8%AA%D8%AD/id6741735966)
 - **Description:**  
-  رفيقك المثالي لتجهيز مناسبتك بكل احترافية، مع إمكانية الوصول لمزودي خدمات المناسبات مثل القاعات، التصوير، المطاعم، وغيرها.
+  رفيقك المثالي لتجهيز مناسبتك بكل احترافية، مع إمكانية الوصول لمزودي خدمات المناسبات مثل القاعات، التصوير، المطاعم، وغيرها
+  
+  
+### . D-Bikes
+- **Google Play:** [D-Bikes](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
+- **App Store:** [D-Bikes](https://apps.apple.com/us/app/d-bikes/id1662258319)
+- **Description:**  
+  A smart bike rental app enabling users to find and rent bikes easily with integrated payment gateways and live tracking.
 
 ### . أجرة
 
@@ -38,12 +39,6 @@ Feb 2021 – Present | Jiddah, Makkah, Saudi Arabia (Remote)
 - **Description:**  
 Whether you are an individual, a company, or the owner of a self-employment document
 Renter: Start from here and create your free store and start your business with ease and safety by offering, from equipment and tools to real estate and collectibles to boats and services, and everything.
-
-### . D-Bikes
-- **Google Play:** [D-Bikes](https://play.google.com/store/apps/details?id=sa.aait.flutter.dbikes&hl=en)
-- **App Store:** [D-Bikes](https://apps.apple.com/us/app/d-bikes/id1662258319)
-- **Description:**  
-  A smart bike rental app enabling users to find and rent bikes easily with integrated payment gateways and live tracking.
 
 ### . Soma
 - **Google Play:** [Soma](https://play.google.com/store/apps/details?id=com.aait.flutter.soma&hl=en)
@@ -63,6 +58,7 @@ Renter: Start from here and create your free store and start your business with 
 - **App Store:** [Cloud Nine_Provider](https://apps.apple.com/us/app/cloud-9-provider/id6739737430)
 - **Description:**  
   Enjoy small group classes that offer the same focus and attention as personal training, but in a relaxed and motivating group atmosphere.
+  
 
 ### . Homra
 - **Google Play:** [حمره](https://play.google.com/store/apps/details?id=com.aait.flutter.hamaruh.user&hl=en_US)
@@ -70,11 +66,6 @@ Renter: Start from here and create your free store and start your business with 
 - **Description:**  
 تطبيق “حُمرة” هو دليلك الذكي لاستكشاف أفضل الصالونات والأماكن مع معلومات دقيقة ، تقييمات حقيقية، صور من أرض الواقع، وقائمة محدثة بالخدمات والأسعار .
   
-### . AYSN
-- **Google Play:** [AYSN](https://play.google.com/store/apps/details?id=sa.aait.flutter.aysn&hl=en)
-- **App Store:** [AYSN](https://apps.apple.com/us/app/aysn/id1635026369)
-- **Description:**  
-  حلول ذكية للتسويق والتجارة الالكترونية مع نشر الاحتياجات والإعلانات وفق الموقع الجغرافي.
 
 ### . Broker (بروكر)
 - **Google Play:** [Broker (بروكر)](https://play.google.com/store/apps/details?id=com.aait.broker&hl=en_US)
@@ -88,18 +79,33 @@ Renter: Start from here and create your free store and start your business with 
 - **Description:**  
 We are Car Station — your smart and specialized platform connecting customers with car service providers of all types through an easy and secure digital experience.
 
-
-### .Smart gaming calculator(حاسبة الألعاب الذكية)
-- **Google Play:** [حاسبة الألعاب الذكية](https://play.google.com/store/apps/details?id=com.flutter.hasibatalaab)
-- **App Store:** [حاسبة الألعاب الذكية](https://apps.apple.com/us/app/%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/id6499495593)
+### . AYSN
+- **Google Play:** [AYSN](https://play.google.com/store/apps/details?id=sa.aait.flutter.aysn&hl=en)
+- **App Store:** [AYSN](https://apps.apple.com/us/app/aysn/id1635026369)
 - **Description:**  
-  تطبيق "حاسبة الألعاب الذكية" هو أداة البرمجة تم تطويرها لتسهيل تجربة ألعاب الورق في المجموعات الأساسية. تتميز هذا التطبيق بأنها من المزايا التي تجعل ألعاب الألعاب الورقية أكثر متعة وسهولة. يعتبر تطبيق "محاسبة الألعاب الذكية" شريكًا مثاليًا لعشاق ألعاب الورق التي ترغب في تنظيم طريقة سهلة وذكية لتنظيم جلسات اللعب في الأماكن الحقيقية، مع توفير قراءة من الألوان والترفيه.
+  حلول ذكية للتسويق والتجارة الالكترونية مع نشر الاحتياجات والإعلانات وفق الموقع الجغرافي
 
+### . Jolias
+- **App Store:** [Offer Station](https://apps.apple.com/us/app/jolias/id6502941213)
+- **Description:**  
+ تطبيق جولياس يتيح لكم حجز مواعيد للتجميل سواء في صالونات التجميل او في موقعكم الخاص. كما يحتوي التطبيق على مجموعة من افضل صالونات وخبيرات التجميل كما يمكنكم اختيار طرق الدفع الالكتروني المختلفة
 
-### . engaz (انجاز)
+ ### . engaz (انجاز)
 - **Google Play:** [انجاز - engaz](https://play.google.com/store/apps/details?id=sa.aait.asp.engaz&hl=es_419)
 - **Description:**  
-  تطبيق لعرض المنتجات وبيعها بسهولة مع إدارة كاملة للعملية التجارية.
+  تطبيق لعرض المنتجات وبيعها بسهولة مع إدارة كاملة للعملية التجارية
+
+ ### . Best promo
+- **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo/id6502256311) 
+- **Description:**  
+هل تبحث عن خصومات مذهلة وعروض حصرية؟ Best Promoيقدم لك أفضل الكوبونات والخصومات عند اشتراكك! احصل على فرص توفير لا محدودة على المطاعم والكافيهات وغيرها الكثير.
+
+
+ ### . Best promo Provider
+- **App Store:** [Offer Station](https://apps.apple.com/us/app/best-promo-provider/id6737734051) 
+- **Description:**  
+هل أنت مقدم خدمة تبحث عن زيادة قاعدة عملائك وتوسيع نطاق عملك؟ انضم إلى Best Promoمجانًا واستفد من الفرص الجديدة لتنمية أعمالك وجذب المزيد من العملاء.
+
 
 ### . Contract maker (صانع العقود)
 - **Google Play:** [صانع العقود](https://play.google.com/store/apps/details?id=sa.aait.aspbranch.contact.maker&hl=pt)
@@ -115,11 +121,6 @@ Employment application for workshops, clinics and other services
 - **Google Play:** [Discount](https://play.google.com/store/apps/details?id=sa.aait.aspbranch.discount)
 - **Description:**  
 نعمل على ايجاد افضل الاسعار لجميع المنتجات والخدمات على مستوى العالم
-
-### . Land and sea (بر وبحر)
-- **App Store:** [بر وبحر](https://apps.apple.com/eg/app/%D8%A8%D8%B1-%D9%88%D8%A8%D8%AD%D8%B1/id1609854210)
-- **Description:**  
-  استمتع بأفضل الرحلات البرية والبحرية مع خيارات ترفيهية وحجز سهل ودقيق.
 
 ### . Offer Station
 - **App Store:** [Offer Station](https://apps.apple.com/fr/app/offer-station/id1617536043)
