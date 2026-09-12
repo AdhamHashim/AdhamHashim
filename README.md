@@ -3,7 +3,7 @@
 ## Mobile Application Developer (Flutter)
 ---
 ### Professional Experience
-**Creative System for Digital Transformation (AAIT)** — (4 years, 7 months)
+**Creative System for Digital Transformation (CS)** — (4 years, 7 months)
 Full-Time | Mar 2022 – Present | Egypt (On-site)  
 
 **Moltaqa Tech** — (1 year)
